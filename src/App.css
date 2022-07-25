@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+h3{
+  background-color: rgb(154, 182, 234);
+  padding: 10px;
+}
+.font-label{
+  font-size: 15px;
+  padding-top: 10px;
+  margin: 5px;
+}
+.button{
+  margin: 3px;
+}
